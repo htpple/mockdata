@@ -32,6 +32,116 @@
     "time": "11:00",
     "petsAllowed": false,
     "organizer": "Carey Wales"
+  },
+   {
+    "category": "community service",
+    "date": "February 14, 2023",
+    "description": "Join us for a neighborhood cleanup and help beautify our streets.",
+    "id": 2736459,
+    "location": "Green Park",
+    "organizer": "Sunny Ray",
+    "petsAllowed": false,
+    "time": "09:00",
+    "title": "Green Park Clean-Up"
+  },
+  {
+    "category": "health and wellness",
+    "date": "March 20, 2023",
+    "description": "A free yoga session in the park for beginners and experts alike.",
+    "id": 3378291,
+    "location": "Lotus Garden",
+    "organizer": "Yoga Harmony",
+    "petsAllowed": false,
+    "time": "07:30",
+    "title": "Sunrise Yoga"
+  },
+  {
+    "category": "educational",
+    "date": "April 15, 2023",
+    "description": "An interactive workshop on sustainable living and eco-friendly practices.",
+    "id": 4482910,
+    "location": "Eco Center",
+    "organizer": "Planet Pals",
+    "petsAllowed": true,
+    "time": "11:00",
+    "title": "Sustainable Living Workshop"
+  },
+  {
+    "category": "sports",
+    "date": "May 5, 2023",
+    "description": "Annual marathon supporting local charities with various distance options.",
+    "id": 5643782,
+    "location": "City Square",
+    "organizer": "Run for Good",
+    "petsAllowed": false,
+    "time": "06:00",
+    "title": "Charity City Marathon"
+  },
+  {
+    "category": "music festival",
+    "date": "June 22, 2023",
+    "description": "Three days of music, food, and fun with top bands from around the world.",
+    "id": 6857319,
+    "location": "Riverfront Arena",
+    "organizer": "Melody Makers",
+    "petsAllowed": true,
+    "time": "14:00",
+    "title": "Summer Sound Fest"
+  },
+  {
+    "category": "art exhibit",
+    "date": "July 12, 2023",
+    "description": "Explore the latest collection from renowned contemporary artists.",
+    "id": 7910234,
+    "location": "Modern Art Gallery",
+    "organizer": "Visionary Arts",
+    "petsAllowed": false,
+    "time": "10:00",
+    "title": "Contemporary Visions"
+  },
+  {
+    "category": "literary reading",
+    "date": "August 9, 2023",
+    "description": "Meet your favorite authors and discover new ones at our annual book fair.",
+    "id": 8934761,
+    "location": "Book Haven",
+    "organizer": "Readers United",
+    "petsAllowed": true,
+    "time": "13:00",
+    "title": "Book Lovers Fair"
+  },
+  {
+    "category": "theater",
+    "date": "September 19, 2023",
+    "description": "An open-air play featuring the works of Shakespeare in a modern setting.",
+    "id": 9043827,
+    "location": "Elm Street Theater",
+    "organizer": "Drama Guild",
+    "petsAllowed": false,
+    "time": "18:00",
+    "title": "Shakespeare in the Park"
+  },
+  {
+    "category": "food and drink",
+    "date": "October 3, 2023",
+    "description": "Taste dishes from the city's best restaurants and vote for your favorite.",
+    "id": 1025589,
+    "location": "Gourmet Plaza",
+    "organizer": "Flavor Fest",
+    "petsAllowed": true,
+    "time": "12:00",
+    "title": "City Taste Tour"
+  },
+  {
+    "category": "holiday event",
+    "date": "December 24, 2023",
+    "description": "Join us for an evening of festive lights, music, and holiday cheer.",
+    "id": 1156793,
+    "location": "Winter Wonderland",
+    "organizer": "Holiday Spirits",
+    "petsAllowed": true,
+    "time": "17:00",
+    "title": "Christmas Eve Celebration"
   }
 ]
 }
